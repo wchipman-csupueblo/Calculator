@@ -142,5 +142,10 @@ namespace Calculator
                 MessageBox.Show(E.Message); 
             }
         }
+
+        private void Output_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
